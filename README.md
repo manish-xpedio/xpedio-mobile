@@ -19,16 +19,9 @@ Install xpedio mobile library with npm
   npm install --save xpedio-mobile
 ```
     
-![Logo](https://xpediolive.com/xpediolive-big.png)
-
-
 ## API Reference
 
 #### Get all API details
-
-```http
-  POST /api/items
-```
 
 | Function name | Return type     | Description                |
 | :-------- | :------- | :------------------------- |
