@@ -1,6 +1,6 @@
 {
   "name": "xpedio-mobile",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Xpedio Mobile Library",
   "main": "index.js",
   "scripts": {
