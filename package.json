@@ -1,0 +1,23 @@
+{
+  "name": "xpedio-mobile",
+  "version": "1.0.0",
+  "description": "Xpedio Mobile Library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mvbhavsar/xpedio-mobile.git"
+  },
+  "keywords": [
+    "xpedio",
+    "mobile"
+  ],
+  "author": "Manish Bhavsar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mvbhavsar/xpedio-mobile/issues"
+  },
+  "homepage": "https://github.com/mvbhavsar/xpedio-mobile#readme"
+}
